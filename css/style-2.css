@@ -163,13 +163,13 @@ a {
 
 /* section home */
 .section-home .home-cover {
-  background: url("../img/lounge.jpg");
+  background: url("../img/code.png");
   background-size: cover;
   background-position: center;
   opacity: 0.15; }
   @media (min-width: 768px) {
     .section-home .home-cover {
-      background: url("../img/lounge.jpg");
+      background: url("../img/code.png");
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
